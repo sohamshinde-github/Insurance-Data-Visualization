@@ -1,6 +1,7 @@
 ## Insurance Company Data Visualization 
 
 ### Visualization of more than 1300 customers data according to smoking or not, BMI, charges paid, age etc.
+### Predicting charges of insurance based in customers age and BMI. We can see as age increases by 1 year insurance charge increases by $238.
 
 &nbsp;1. Imported Libraries<br/>
 &nbsp;2. Reading 'insurance.csv' file <br/>
